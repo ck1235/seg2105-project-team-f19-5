@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">WalkNCare</string>
+    <string name="registration_success">Patient was registered</string>
+    <string name="WelcomePerson">Welcome name! You are logged in as role</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="loginbtn">Login</string>
+    <string name="notregistered">Not registered? Sign Up here!</string>
+    <string name="fname">First name</string>
+    <string name="lname">Last name</string>
+    <string name="patient">Patient</string>
+    <string name="clipboard">medical clipboard clipart</string>
+    <string name="clinic">Clinic Employee</string>
+    <string name="singupbtn">Signup</string>
+    <string name="youAreA">You are a...</string>
+    <string name="alreadySignedup">Already have an account? Sign in here!</string>
+    <string name="DeleteService">Delete Service</string>
+    <string name="UpdateBtn">Update Service</string>
+    <string name="Enterservice">Enter service</string>
+    <string name="Enterrole">Enter role</string>
+    <string name="Enterprice">Enter price</string>
+
+    <string-array name="HoursPM">
+        <item>     </item>
+        <item>12:00pm</item>
+        <item>1:00pm</item>
+        <item>2:00pm</item>
+        <item>3:00pm</item>
+        <item>4:00pm</item>
+        <item>5:00pm</item>
+        <item>6:00pm</item>
+        <item>7:00pm</item>
+        <item>8:00pm</item>
+        <item>9:00pm</item>
+        <item>10:00pm</item>
+        <item>11:00pm</item>
+    </string-array>
+
+    <string-array name="HoursAM">
+        <item>     </item>
+        <item>12:00am</item>
+        <item>1:00am</item>
+        <item>2:00am</item>
+        <item>3:00am</item>
+        <item>4:00am</item>
+        <item>5:00am</item>
+        <item>6:00am</item>
+        <item>7:00am</item>
+        <item>8:00am</item>
+        <item>9:00am</item>
+        <item>10:00am</item>
+        <item>11:00am</item>
+    </string-array>
+</resources>
